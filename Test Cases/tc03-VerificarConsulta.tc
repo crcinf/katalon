@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verifica historico</description>
+   <name>tc03-VerificarConsulta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a077b97-a8dd-47e3-b52e-9ba0509dcc21</testCaseGuid>
+</TestCaseEntity>
